@@ -1,14 +1,16 @@
 **Data:** 20/06/2021
+
 **Local:** Bola de Neve Boituva
+
 **Preletor:** Pr Rafael Borges Figueiro
 ___
 
-##**Tema:**  Como lidar com o desanimo
+## **Tema:**  Como lidar com o desanimo
 
 **Texto base:**
 1 Reis 19:3
 
-###**Resumo**
+### **Resumo**
 
 >Behold, thou hast instructed many,
 >and thou hast strengthened the weak hands.
@@ -50,7 +52,7 @@ No caso de Elias, a frustração dele é não ter sido o que seus pais foram. Ma
 > Proverbios 13:12
 
 
-####Identificando o desanimo
+#### Identificando o desanimo
 
 1. Fulga.
 
@@ -69,7 +71,7 @@ A fulga é para tambem fugir do confronto, fugir da palavras. Se coloca numa sit
 3. Desistencia
 Ao final Elias desfalace e deseja a morte.
 
-####A resposta de Deus
+#### A resposta de Deus
 
 >11. And he said, Go forth, and stand upon the mount before the Lord. And, behold, the Lord passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the Lord; but the Lord was not in the wind: and after the wind an earthquake; but the Lord was not in the earthquake: 
 >12. and after the earthquake a fire; but the Lord was not in the fire: and after the fire a still small voice. 
