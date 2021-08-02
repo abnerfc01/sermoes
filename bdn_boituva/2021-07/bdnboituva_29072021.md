@@ -4,7 +4,7 @@
 
 ---
 
-## **Tema:**  Contruindo coisas inabaláveis
+## **Tema:**  Para tudo há um propósito
 
 **Texto base:**
 
